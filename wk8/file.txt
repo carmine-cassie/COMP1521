@@ -1,0 +1,3 @@
+old file
+we get both lines!
+it's a file alright
