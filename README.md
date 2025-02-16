@@ -1,26 +1,28 @@
-# 1521_24T1_F09A
-Hey everybody! This is where I'll put any code I write during each week's labs, as well as my slides.
+# 1521
+Hey everybody, welcome to COMP1521! On this page you can find the slides and code I deliver and write during my tutorials!
 
-I've left the slides and code from my last term here, so that you have as many resources as you could possibly want.
+Throughout this term, I plan to really go through and update all of these resources, make sure they're really in tip-top shape.
+
+As part of that polish I plan to get a lot of this up on my website as a sort of "learn at your own pace" written tutorial. When I get around to that you should be able to find it [here!](https://carmine-cassie.github.io/COMP1521)
 
 ---
 
-## My VSCode Extensions (as a treat)
-Here's a quick rundown on the extensions I use to make my VSCode look the way it does.
+## VSCode Setup!
+For this course, we use a lot of tools that are only installed on UNSW CSE machines, so you'll need to have a way to access a CSE terminal.
+
+Your big options here are:
+- Using a computer in the lab room
+- TigerVNC
+- Setting up SSH (following either [this beginner guide](https://abiram.me/cse-setup) or [this more advanced one](https://abiram.me/cse-sshfs))
+
+Additionally, you'll probably be interested in these two VSCode extensions:
 
 ### [Mipsy Editor Features](https://marketplace.visualstudio.com/items?itemName=xavc.xavc-mipsy-features)
-The most important VSCode extension for this course is the **Mipsy Editor Features** extension, by Xavier Cooney.
+Throughout this course we program a lot in our own special spinoff of MIPS Assembly language, called *Mipsy!* If you want to have your code to have beautiful and correct syntax highlighting (colours), you'll want to grab this extension.
 
-This extension provides the syntax highlighting for assembly files, so you get all those pretty colours!
+> Fun Fact: this extension is written by Xavier Cooney, one of our Course Admins!
 
 ### [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
-Marp is the extension I use to create my slides in markdown.
+This extension is far less useful, it's just what I use in tutorials to present Markdown documents as if they were slideshows - feel free to grab it if, for whatever reason, you have your heart set on viewing the slides exactly as they look in person.
 
-If you want to see the slides on this repo as slides rather than just text, install the **Marp for VS Code** extension, right click on the file, and select `Open Preview`.
-
-### [Synthwave x Fluoromachine & epic animations](https://marketplace.visualstudio.com/items?itemName=TheCodemonkey.synthwave-x-fluoromachine-epic-animations)
-This is the frankly silly VSCode theme I use, which provides the glowing text, the animated grid, scanlines, etc.
-
-It requires a bit of setup, including installing the [Custom CSS and JSS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) extension, which should tell you about the safety and the complexity of the extension - install at your own risk! (I haven't had any problems so far, though.)
-
-I *believe* I modified my local version of this extension because one of the animations was annoying me, but that would've been a while ago so I barely remember what I did!
+(To view the slideshow, right click on the file, and select `Open Preview`.)
