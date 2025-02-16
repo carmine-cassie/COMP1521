@@ -3,7 +3,7 @@ Hey everybody, welcome to COMP1521! On this page you can find the slides and cod
 
 Throughout this term, I plan to really go through and update all of these resources, make sure they're really in tip-top shape.
 
-As part of that polish I plan to get a lot of this up on my website as a sort of "learn at your own pace" written tutorial. When I get around to that you should be able to find it [here!](https://carmine-cassie.github.io/COMP1521)
+As part of that polish I plan to get a lot of this up on my website as a sort of "learn at your own pace" written tutorial. When I get around to that you should be able to find it [here!](https://carmine-cassie.github.io/comp1521)
 
 ---
 
